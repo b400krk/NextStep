@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>showResult</name>
+   <tag></tag>
+   <elementGuidId>050c6294-d1fb-4b7e-b527-c09cf7dfc829</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;btnSearch&quot;)/span[@class=&quot;button-text&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-text-one</name>
+      <type>Main</type>
+      <value>&amp;lt;span class=&amp;quot;amount&amp;quot;&amp;gt;{0}&amp;lt;/span&amp;gt; Fahrzeug anzeigen</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-text-zero</name>
+      <type>Main</type>
+      <value>&amp;lt;span class=&amp;quot;amount&amp;quot;&amp;gt;&amp;lt;/span&amp;gt;Suchen</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-text-multiple</name>
+      <type>Main</type>
+      <value>&amp;lt;span class=&amp;quot;amount&amp;quot;&amp;gt;{0}&amp;lt;/span&amp;gt; Fahrzeuge anzeigen</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>33 Fahrzeuge anzeigen</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnSearch&quot;)/span[@class=&quot;button-text&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
